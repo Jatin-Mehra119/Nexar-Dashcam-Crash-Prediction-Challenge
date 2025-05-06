@@ -3,7 +3,7 @@
 # 🚗 VideoMAE-2 for Dashcam Collision Prediction
 
 This repository contains all the data preprocessing, training and inference scripts used for predicting vehicle collisions using dashcam footage, developed for the [Nexar Dashcam Collision Prediction Challenge](https://www.kaggle.com/competitions/nexar-collision-prediction). The model achieved a **29th place** finish on the public leaderboard with a score of **0.76** Average Precision (AP).
-![Nexar Accident prediction](https://github.com/user-attachments/assets/e2dce4a2-be5f-4152-8eb3-3d15c497e162)
+[![Nexar Accident prediction](https://github.com/user-attachments/assets/e2dce4a2-be5f-4152-8eb3-3d15c497e162)](https://huggingface.co/jatinmehra/Accident-Detection-using-Dashcam)
 
 ----------
 
