@@ -29,7 +29,7 @@ The model was trained on the [Nexar Collision Prediction Dataset](https://huggin
     
 -   400 collision videos
     
--   350 near-miss videos [arXiv](https://arxiv.org/html/2503.03848v1?utm_source=chatgpt.com)
+-   350 near-miss videos [arXiv](https://arxiv.org/html/2503.03848v1)
     
 
 Each video is annotated with:
@@ -91,7 +91,7 @@ The model's performance was evaluated using Mean Average Precision (mAP) across 
     
 -   1500ms
 
-The final score is the mean of the Average Precision (AP) values at these intervals, emphasizing early and accurate collision predictions
+The final score is the mean of the Average Precision (AP) values at these intervals, emphasizing early and accurate collision predictions: **0.80mAP**
 
 
 
